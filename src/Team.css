@@ -3,7 +3,8 @@
   align-items: center;
   justify-content: center;
   padding: 20px;
-  width: 480px;
+  flex: 1 1 auto;
+  max-width: 480px;
 }
 
 .Team img {
