@@ -1,13 +1,13 @@
 {
-  "main.css": "/owl-badge-generator/static/css/main.3249a4ef.chunk.css",
-  "main.js": "/owl-badge-generator/static/js/main.d5781919.chunk.js",
-  "main.js.map": "/owl-badge-generator/static/js/main.d5781919.chunk.js.map",
+  "main.css": "/owl-badge-generator/static/css/main.fcf11a93.chunk.css",
+  "main.js": "/owl-badge-generator/static/js/main.8cb89438.chunk.js",
+  "main.js.map": "/owl-badge-generator/static/js/main.8cb89438.chunk.js.map",
   "runtime~main.js": "/owl-badge-generator/static/js/runtime~main.aa30a758.js",
   "runtime~main.js.map": "/owl-badge-generator/static/js/runtime~main.aa30a758.js.map",
   "static/js/2.f645bcb2.chunk.js": "/owl-badge-generator/static/js/2.f645bcb2.chunk.js",
   "static/js/2.f645bcb2.chunk.js.map": "/owl-badge-generator/static/js/2.f645bcb2.chunk.js.map",
   "index.html": "/owl-badge-generator/index.html",
-  "precache-manifest.9a1fe0a6dc9e7c0af1ff2e0432d48b3b.js": "/owl-badge-generator/precache-manifest.9a1fe0a6dc9e7c0af1ff2e0432d48b3b.js",
+  "precache-manifest.7af85f8a88cc234578189b4a726aa11b.js": "/owl-badge-generator/precache-manifest.7af85f8a88cc234578189b4a726aa11b.js",
   "service-worker.js": "/owl-badge-generator/service-worker.js",
-  "static/css/main.3249a4ef.chunk.css.map": "/owl-badge-generator/static/css/main.3249a4ef.chunk.css.map"
+  "static/css/main.fcf11a93.chunk.css.map": "/owl-badge-generator/static/css/main.fcf11a93.chunk.css.map"
 }
