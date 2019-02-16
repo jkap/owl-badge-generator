@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cab7f7b12dc96e1a57cd",
-    "url": "/owl-badge-generator/static/css/main.c3a1173f.chunk.css"
+    "revision": "d57819191787cd14b3e9",
+    "url": "/owl-badge-generator/static/css/main.3249a4ef.chunk.css"
   },
   {
-    "revision": "cab7f7b12dc96e1a57cd",
-    "url": "/owl-badge-generator/static/js/main.cab7f7b1.chunk.js"
+    "revision": "d57819191787cd14b3e9",
+    "url": "/owl-badge-generator/static/js/main.d5781919.chunk.js"
   },
   {
     "revision": "aa30a758055c59234971",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/owl-badge-generator/static/js/2.f645bcb2.chunk.js"
   },
   {
-    "revision": "c3655ec76d9e73a2da2c5540c79ee846",
+    "revision": "b97a81074ff1154ba6b708747bfb2f2c",
     "url": "/owl-badge-generator/index.html"
   }
 ];

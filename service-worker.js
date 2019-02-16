@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/owl-badge-generator/precache-manifest.e3c908ee22ef4d8ef24e493a87057c1a.js"
+  "/owl-badge-generator/precache-manifest.9a1fe0a6dc9e7c0af1ff2e0432d48b3b.js"
 );
 
 workbox.clientsClaim();
